@@ -1,6 +1,9 @@
+![Timezone](https://github.com/WhiteOrange/flutter_timezone_name/assets/162456479/fe321fd5-3212-427b-b743-f335cef539d6)
+
 ## Features
 
-A flutter package helps to get current timezone name for Android and IOS
+A flutter package helps to get
+ current timezone name for Android and IOS
 
 ## Getting started
 
