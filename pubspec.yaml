@@ -1,7 +1,7 @@
 name: flutter_timezone_name
 description: it helps to get a timezone name easily
-version: 0.0.2
-homepage:
+version: 0.0.4
+homepage: https://github.com/WhiteOrange/flutter_timezone_name.git
 
 environment:
   sdk: '>=2.19.6 <3.0.0'

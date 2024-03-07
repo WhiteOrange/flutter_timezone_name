@@ -3,6 +3,7 @@
 export "FLUTTER_ROOT=C:\flutter_3.16.9\flutter"
 export "FLUTTER_APPLICATION_PATH=C:\Users\Administrator\Desktop\nilesh_k\flutter_timezone_name"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
+export "FLUTTER_TARGET=lib\main.dart"
 export "FLUTTER_BUILD_DIR=build"
 export "FLUTTER_BUILD_NAME=0.0.4"
 export "FLUTTER_BUILD_NUMBER=0.0.4"
