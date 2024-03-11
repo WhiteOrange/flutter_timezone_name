@@ -5,7 +5,7 @@ A flutter package helps to get
 
 ## Getting started
 
-flutter_timezone_name is basically an improved timezone package so you can just use as an getCurrentTimeZoneName() method.
+flutter_timezone_name is basically an improved timezone package so you can just use as an getCurrentTimeZoneName method.
 
 ## Usage
 
