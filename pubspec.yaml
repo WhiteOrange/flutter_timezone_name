@@ -1,6 +1,6 @@
 name: flutter_timezone_name
 description: flutter_timezone_name is basically an improved timezone package so you can just use as an getCurrentTimeZoneName method.
-version: 0.0.5
+version: 0.0.6
 homepage: https://github.com/WhiteOrange/flutter_timezone_name.git
 
 environment:

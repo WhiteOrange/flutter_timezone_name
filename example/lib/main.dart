@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_timezone_name/flutter_timezone_name.dart';
 
-///  this is a example of flutter package to add adaptive shimmer in any widget for Android and IOS
+///  this is a example of flutter package to add flutter_timezone_name in any widget for Android and IOS
 void main() {
   runApp(const MyApp());
 }
