@@ -1,7 +1,7 @@
 ## Features
 
 [![Flutter Package](https://img.shields.io/pub/v/flutter_timezone_name.svg)](https://pub.dev/packages/flutter_timezone_name)
-![](https://github.com/hnvn/flutter_timezone_name/workflows/unit%20test/badge.svg)
+![](https://github.com/hnvn/flutter_shimmer/workflows/unit%20test/badge.svg)
 [![Pub Points](https://img.shields.io/pub/points/flutter_timezone_name)](https://pub.dev/packages/flutter_timezone_name/score)
 [![Popularity](https://img.shields.io/pub/popularity/flutter_timezone_name)](https://pub.dev/packages/flutter_timezone_name/score)
 
